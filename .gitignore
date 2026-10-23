@@ -1,0 +1,11 @@
+# Configurações de ambiente e segredos
+.env
+
+# Banco de dados local
+*.db
+*.sqlite3
+
+# Arquivos temporários e pastas do Python
+__pycache__/
+*.pyc
+.venv/
